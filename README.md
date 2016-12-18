@@ -1,2 +1,2 @@
-# mata37
-Listas e provas da disciplina MATA37 - Introdução a Lógica de Computação
+# pascal
+Some lists and proofs of the subject Introduction to Computing Logic 
