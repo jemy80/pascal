@@ -1,3 +1,6 @@
+// Segunda Lista de Exercícios
+
+
 program questao02;
 uses crt;
 var x, y : integer;
