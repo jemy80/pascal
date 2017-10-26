@@ -1,4 +1,4 @@
-program produtos;
+program minProductValue;
 uses crt;
 var menorpreco, codigomenor, n, p : integer;
 

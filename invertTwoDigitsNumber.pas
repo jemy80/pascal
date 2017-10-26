@@ -4,7 +4,7 @@
 	invertida. O algoritmo deve gerar o número e não apenas imprimi-lo de forma invertida.
 }
 
-program invertTwoDigits;
+program invertTwoDigitsNumber;
 uses crt;
 var n : integer;
 

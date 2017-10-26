@@ -1,4 +1,4 @@
-program numeroemfibonacci;
+program isNumberFibonacci;
 uses crt;
 var num1, num2, prox, i, x, vezes: integer;
 	v : array [1..10000] of integer;
@@ -23,5 +23,4 @@ BEGIN
 				end;
 		end;
 	if (vezes=0) then writeln('Elemento não encontrado.');
-
 END.

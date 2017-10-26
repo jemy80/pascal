@@ -7,7 +7,7 @@
 	auxiliar para fazer a troca. (2,0 pontos)
 }
 
-program invertedMatrix;
+program invertMatrix;
 uses crt;
 var i, j, aux : integer;
 	Mat : array [1..50, 1..50] of integer;

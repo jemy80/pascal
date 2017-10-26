@@ -3,7 +3,7 @@
    Escreva uma função recursiva que retorne o n-ésimo termo da seqüência de Fibbonaci, n dado.   
 }
 
-program nFibbonaci;
+program nFibonacci;
 uses crt;
 var i : integer;
 

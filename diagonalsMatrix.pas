@@ -4,7 +4,7 @@
 	diagonal principal e da diagonal secundária.
 }
 
-program diagonals;
+program diagonalsMatrix;
 uses crt;
 var i, j : integer;
 	Mat : array [1..50,1..50] of integer;

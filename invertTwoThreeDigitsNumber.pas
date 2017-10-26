@@ -5,7 +5,7 @@
 	isso digitando 2 ou 3.
 }
 
-program invertTwoThreeDigits;
+program invertTwoThreeDigitsNumber;
 uses crt;
 var n, Opcao : integer;
 

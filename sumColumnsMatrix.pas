@@ -1,4 +1,4 @@
-program somacoluna;
+program sumColumnsMatrix;
 uses crt;
 var i, j : integer;
 	col : array [1..70] of integer;

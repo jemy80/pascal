@@ -1,4 +1,4 @@
-program maiornota;
+program maxGrade;
 uses crt;
 var maiornota, c, n, codigomaior : real;
 
