@@ -1,7 +1,9 @@
-// Segunda Lista de Exercícios
+{
+	Segunda Lista de Exercícios
+	Escreva um subprograma em Pascal que calcule “x elevado a y”.
+}
 
-
-program questao02;
+program pow;
 uses crt;
 var x, y : integer;
 

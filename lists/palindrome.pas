@@ -1,4 +1,11 @@
-program palindromo;
+{
+   Segunda Lista de Exercícios
+   Uma palavra é palíndromo se ela não se altera quando lida da direita para esquerda. Por exemplo, raiar é
+   palíndromo. Escreva um programa que verifique se uma palavra dada é palíndromo.
+}
+
+
+program palindrome;
 var St : string;
 	i, Comp :integer;
 
