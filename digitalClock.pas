@@ -13,7 +13,7 @@ var s : LongInt;
 
 BEGIN
 	write('Digite a quantidade de segundos: ');
-	read(s);
+	readln(s);
 	case s of
 		0..59: writeln('Relogio digital: 00:00:',s,'.');
 		60..3599: writeln('Relogio digital: 00:',s div 60,':',s mod 60,'.');
